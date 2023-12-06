@@ -1,0 +1,16 @@
+D:\My Private Projects\U3App\bin\Debug\net5.0\U3App.exe
+D:\My Private Projects\U3App\bin\Debug\net5.0\U3App.deps.json
+D:\My Private Projects\U3App\bin\Debug\net5.0\U3App.runtimeconfig.json
+D:\My Private Projects\U3App\bin\Debug\net5.0\U3App.runtimeconfig.dev.json
+D:\My Private Projects\U3App\bin\Debug\net5.0\U3App.dll
+D:\My Private Projects\U3App\bin\Debug\net5.0\ref\U3App.dll
+D:\My Private Projects\U3App\bin\Debug\net5.0\U3App.pdb
+D:\My Private Projects\U3App\obj\Debug\net5.0\U3App.csprojAssemblyReference.cache
+D:\My Private Projects\U3App\obj\Debug\net5.0\U3App.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Private Projects\U3App\obj\Debug\net5.0\U3App.AssemblyInfoInputs.cache
+D:\My Private Projects\U3App\obj\Debug\net5.0\U3App.AssemblyInfo.cs
+D:\My Private Projects\U3App\obj\Debug\net5.0\U3App.csproj.CoreCompileInputs.cache
+D:\My Private Projects\U3App\obj\Debug\net5.0\U3App.dll
+D:\My Private Projects\U3App\obj\Debug\net5.0\ref\U3App.dll
+D:\My Private Projects\U3App\obj\Debug\net5.0\U3App.pdb
+D:\My Private Projects\U3App\obj\Debug\net5.0\U3App.genruntimeconfig.cache
